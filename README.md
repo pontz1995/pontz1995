@@ -1,4 +1,15 @@
-### Hi there 👋
+![hithere](https://github.com/pontz1995/pontz1995/assets/149344171/54df7587-38eb-449e-9933-8af4851d0e4f)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pontz1995)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pontz1995)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pontz1995)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img
+  src="https://github.com/pontz1995/pontz1995/blob/main/images/stat.svg"
+  alt="daa"
+/>
 
 <!--
 **pontz1995/pontz1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
