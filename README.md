@@ -6,8 +6,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pontz1995)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@pontz1995)](https://github.com/anuraghazra/github-readme-stats)
+
 <img
-  src="https://github.com/pontz1995/pontz1995/blob/main/images/stat.svg"
+  src="https://github.com/pontz1995/pontz1995/blob/master/images/stat.svg"
   alt="daa"
 />
 
